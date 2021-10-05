@@ -47,7 +47,7 @@ namespace BLACKJACK
 
         public void Init()
         {
-            // Invoca dos veces al metodo Deal y agrega las cartas al hand utilisando el metodo AddCard
+            // Invoca dos veces al metodo Deal y agrega las cartas al hand utilizando el metodo AddCard
         }
 
 

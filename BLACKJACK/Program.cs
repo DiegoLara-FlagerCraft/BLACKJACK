@@ -6,7 +6,7 @@ namespace BLACKJACK
     {
         static void Main(string[] args)
         {
-            Card card = new Card("","R");
+            Card card = new Card("¶","R");
 
             Console.WriteLine(card.Suit + card.Symbol);
 
